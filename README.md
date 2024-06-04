@@ -31,4 +31,14 @@ To download the app go to "releases":
 
 ![image](https://github.com/oZaGGo/coint/assets/113898233/d023dd6a-087d-4a51-bd58-a7222231366c)
 
+Then go to coint:
+
+![image](https://github.com/oZaGGo/coint/assets/113898233/2571009b-1c4e-4377-a6f2-c94fc547ae86)
+
+Then you have the link to download the file and install:
+
+![image](https://github.com/oZaGGo/coint/assets/113898233/ce388646-5b21-42e2-bda0-a6de4c01cdcc)
+
+
+
 All of this using AI.
