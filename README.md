@@ -1,4 +1,6 @@
 # Coint (v1.0)
+![icon](https://github.com/oZaGGo/coint/assets/113898233/3558cbc1-74a5-4b56-ba5b-b390d208825c)
+
 An Ionic app that show information about cryptos using AI.
 
 With the app you can see news about any of the most popular and important cryptocurrencies. All this by accessing current data.
@@ -24,5 +26,9 @@ In the chat section you can do various useful functions.
 ![image](https://github.com/oZaGGo/coint/assets/113898233/1cacc2b3-0652-4778-a168-5b9fc949b513)
 
 -Etc.
+
+To download the app go to "releases":
+
+![image](https://github.com/oZaGGo/coint/assets/113898233/d023dd6a-087d-4a51-bd58-a7222231366c)
 
 All of this using AI.
