@@ -27,6 +27,8 @@ In the chat section you can do various useful functions.
 
 -Etc.
 
+All of this using AI.
+
 To download the app go to "releases":
 
 ![image](https://github.com/oZaGGo/coint/assets/113898233/d023dd6a-087d-4a51-bd58-a7222231366c)
@@ -39,6 +41,3 @@ Then you have the link to download the file and install:
 
 ![image](https://github.com/oZaGGo/coint/assets/113898233/ce388646-5b21-42e2-bda0-a6de4c01cdcc)
 
-
-
-All of this using AI.
